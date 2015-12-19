@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:52:24.470Z'
-dateModified: '2015-12-19T22:52:12.377Z'
+datePublished: '2015-12-19T23:30:43.912Z'
+dateModified: '2015-12-19T23:30:28.814Z'
 title: a tiny little dot
 author: []
+sourcePath: _posts/2015-12-19-a-tiny-little-dot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-a-tiny-little-dot.md
-published: true
 url: a-tiny-little-dot/index.html
 _type: Article
 
@@ -40,4 +40,4 @@ strike the rod
 of imagination
 right into 
 utter formation.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94319703-a60f-4c42-beee-2de9cffd44d8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b82c61e7-a6ed-4026-aa87-82965dadbcc9.jpg)
