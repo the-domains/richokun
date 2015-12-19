@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T21:15:22.508Z'
-dateModified: '2015-12-19T21:15:04.981Z'
+datePublished: '2015-12-19T23:32:20.729Z'
+dateModified: '2015-12-19T23:32:02.871Z'
 title: as the cold winds blow
 author: []
+sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
-published: true
 url: as-the-cold-winds-blow/index.html
 _type: Article
 
@@ -36,4 +36,4 @@ in solitude withdrawn.
 But the sun still shines,
 and the grasses still grow
 in ever advancing designs,
-as the cold winds blow.
+as the cold winds blow. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48635855-3e15-4386-ab2a-9e5691916ac6.jpg)
