@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:52:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a tiny little dot]]></title>
+            <description><![CDATA[<article><h1>a tiny little dot</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94319703-a60f-4c42-beee-2de9cffd44d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
+            <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
+            <pubDate>Sat, 19 Dec 2015 22:52:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a path of gold]]></title>
             <description><![CDATA[<article><h1>a path of gold</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09e33eb3d3fffb2791bf951fa539b0a1060360e7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/richokun/an-ageless-essence/index.html</link>
             <guid isPermaLink="false">0092a500-c207-479c-954a-b051fea14e3f</guid>
             <pubDate>Sat, 19 Dec 2015 19:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Sweetness of seeking]]></title>
-            <description><![CDATA[<article><h1>The Sweetness of seeking</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56926622e1e1b4fac6d563f7f034cba250a18396.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/the-sweetness-of-seeking/index.html</link>
-            <guid isPermaLink="false">c2482e09-347e-42c0-9290-e8a8805b8d99</guid>
-            <pubDate>Sat, 19 Dec 2015 14:15:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
