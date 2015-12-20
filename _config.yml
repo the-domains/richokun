@@ -1,6 +1,6 @@
 name: richokun
 favicon: null
-layout_spectrum: 0.5042
+layout_spectrum: 0.94408
 typography_spectrum: 0.87121
 title: Rich Okun
 cta:
@@ -23,7 +23,7 @@ color:
     - '#c7c4be'
     - '#b19f85'
   brandStrength: 0.0625
-  lightness: 0.1875
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  lightness: 0.0625
+  saturation: 0.0625
+  rhythmicContrast: 0
 purpose: []
