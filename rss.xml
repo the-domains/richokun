@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 13:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 15:13:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[as the cold winds blow]]></title>
+            <description><![CDATA[<article><h1>as the cold winds blow</h1><p>as the cold winds blow </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c15826f1cfbd1f1ebb58d69a49bd82142d3640ad.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/as-the-cold-winds-blow/index.html</link>
+            <guid isPermaLink="false">fc95f8db-90fc-48a6-bd54-18ae31eed611</guid>
+            <pubDate>Wed, 23 Dec 2015 15:12:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nobody's Dinner]]></title>
             <description><![CDATA[<article><h1>Nobody's Dinner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525c40b82b0cabc18d78bfa7fcebf828f7dc90fe.jpg"></article>]]></description>
@@ -96,13 +103,6 @@ its ascension of all that was. </h1><p>sleeping beauty</p><img src="https://s3-u
             <link>https://thegrid.ai/richokun/sleeping-beauty/index.html</link>
             <guid isPermaLink="false">072ad416-c2f3-4af7-ae25-940f46260357</guid>
             <pubDate>Sun, 20 Dec 2015 22:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On this beautiful day - My mystical journey]]></title>
-            <description><![CDATA[<article><h1>On this beautiful day - My mystical journey</h1><p>My Mystical Journey</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2c9ed493f4576fdf0669e6be72927875ec4da6b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/on-this-beautiful-day-my-mystical-journey/index.html</link>
-            <guid isPermaLink="false">cf5aeebe-bfa3-4fb9-b7e4-97cde3f84b53</guid>
-            <pubDate>Sat, 19 Dec 2015 22:01:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
