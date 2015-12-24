@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T10:52:56.317Z'
-dateModified: '2015-12-24T10:52:47.481Z'
+datePublished: '2015-12-24T11:11:37.363Z'
+dateModified: '2015-12-24T11:11:31.592Z'
 title: "Nobody's Dinner"
 author: []
 sourcePath: _posts/2015-12-23-nobodys-dinner.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: nobodys-dinner/index.html
-_type: Blurb
+_type: Article
 
 ---
 Nobody's Dinner
