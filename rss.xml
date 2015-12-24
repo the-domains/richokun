@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 19:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 19:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a tiny little dot]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
             <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
             <pubDate>Thu, 24 Dec 2015 19:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In divine fashion]]></title>
+            <description><![CDATA[<article><h1>In divine fashion</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66e7067fcd82881b30c9e951970992ae8b53e44a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/in-divine-fashion/index.html</link>
+            <guid isPermaLink="false">98775009-6fca-4ebd-b08d-471f574cbf6d</guid>
+            <pubDate>Thu, 24 Dec 2015 19:54:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[a greeting machine]]></title>
@@ -69,13 +76,6 @@ to notice, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06d93
             <link>https://thegrid.ai/richokun/the-fearful/index.html</link>
             <guid isPermaLink="false">924d95e2-f0a4-428a-a8f8-a7bbc540479a</guid>
             <pubDate>Thu, 24 Dec 2015 14:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When I look upon the faceof a sleeping beauty,its illumined grace,is all that I see.A pureness in peace,whose tenderness is felt,piercing my outer shell,my heart begins to melt.It doesn't really matterthe what or who, becausewithout awakened chatterits ascension of all that was. ]]></title>
-            <description><![CDATA[<article><h1>When I look upon the faceof a sleeping beauty,its illumined grace,is all that I see.A pureness in peace,whose tenderness is felt,piercing my outer shell,my heart begins to melt.It doesn't really matterthe what or who, becausewithout awakened chatterits ascension of all that was. </h1><p>sleeping beauty</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdfa2cf3-c770-42b0-8811-a7cd7f4d90f8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/sleeping-beauty/index.html</link>
-            <guid isPermaLink="false">072ad416-c2f3-4af7-ae25-940f46260357</guid>
-            <pubDate>Thu, 24 Dec 2015 13:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
