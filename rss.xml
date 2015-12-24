@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 19:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 19:52:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a tiny little dot]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
             <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
             <pubDate>Thu, 24 Dec 2015 19:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a path of gold]]></title>
-            <description><![CDATA[<article><h1>a path of gold</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09e33eb3d3fffb2791bf951fa539b0a1060360e7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/a-path-of-gold/index.html</link>
-            <guid isPermaLink="false">4c13da3f-ddd2-4988-af49-910a2b3b1852</guid>
-            <pubDate>Thu, 24 Dec 2015 19:52:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Now I allow]]></title>
@@ -76,6 +69,13 @@ to notice, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06d93
             <link>https://thegrid.ai/richokun/this-image-that-i-project/index.html</link>
             <guid isPermaLink="false">e302d4cb-b6c0-419d-bbf1-4a8a44903761</guid>
             <pubDate>Thu, 24 Dec 2015 19:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[an ageless essence]]></title>
+            <description><![CDATA[<article><h1>an ageless essence</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e604c94131f14b457843e531ca94af8b0b466de2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/an-ageless-essence/index.html</link>
+            <guid isPermaLink="false">0092a500-c207-479c-954a-b051fea14e3f</guid>
+            <pubDate>Thu, 24 Dec 2015 13:51:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
