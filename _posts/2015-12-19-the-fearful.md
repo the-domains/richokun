@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T14:49:44.875Z'
-dateModified: '2015-12-24T14:49:40.863Z'
+datePublished: '2015-12-24T14:51:48.098Z'
+dateModified: '2015-12-24T14:51:45.412Z'
 title: The Fearful
 author: []
 sourcePath: _posts/2015-12-19-the-fearful.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 The Fearful
 
-We are human beings, and as such are verbs, a set of processes, not a noun. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/168d574b-a0f6-4ec4-ba2d-9e1c85b56e2a.jpg)
+We are human beings, and as such are verbs, a set of processes, not a noun. 
 
 How terrible must it be
 to live in fear all the time.
@@ -40,3 +40,4 @@ I really don't understand
 how blind, can blind be.
 Society must countermand
 and re-find its sanity.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/168d574b-a0f6-4ec4-ba2d-9e1c85b56e2a.jpg)
