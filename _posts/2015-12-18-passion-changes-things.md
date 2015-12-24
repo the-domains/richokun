@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:36:02.988Z'
-dateModified: '2015-12-24T13:28:31.151Z'
+datePublished: '2015-12-24T18:59:13.977Z'
+dateModified: '2015-12-24T18:58:50.434Z'
 title: Passion changes things
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
