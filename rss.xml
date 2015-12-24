@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 15:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 18:59:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Passion changes things]]></title>
+            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/541c38f396122eccc21689db8313d4a033607114.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/passion-changes-things/index.html</link>
+            <guid isPermaLink="false">275f7709-5a5d-4972-b15a-e5a2ada647be</guid>
+            <pubDate>Thu, 24 Dec 2015 18:59:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Fearful]]></title>
             <description><![CDATA[<article><h1>The Fearful</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4318de3aa8e5d012366cd6f46b2cc0f7a666f13.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/richokun/a-path-of-gold/index.html</link>
             <guid isPermaLink="false">4c13da3f-ddd2-4988-af49-910a2b3b1852</guid>
             <pubDate>Thu, 24 Dec 2015 13:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a tiny little dot]]></title>
-            <description><![CDATA[<article><h1>a tiny little dot</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aade5697808b20790cf5f4a1242f13ff4f1156a0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
-            <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
-            <pubDate>Thu, 24 Dec 2015 13:36:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
