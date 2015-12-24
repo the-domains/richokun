@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 13:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 13:50:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This image that I project]]></title>
+            <description><![CDATA[<article><h1>This image that I project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccf2758456d028efc37476609c0f5e2c1e5aeced.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/this-image-that-i-project/index.html</link>
+            <guid isPermaLink="false">e302d4cb-b6c0-419d-bbf1-4a8a44903761</guid>
+            <pubDate>Thu, 24 Dec 2015 13:50:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[an ageless essence]]></title>
             <description><![CDATA[<article><h1>an ageless essence</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e604c94131f14b457843e531ca94af8b0b466de2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/richokun/now-i-allow/index.html</link>
             <guid isPermaLink="false">c0bcca57-f0cd-489d-af43-fbd14946d0cc</guid>
             <pubDate>Thu, 24 Dec 2015 13:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passion changes things]]></title>
-            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae131f3-cceb-4f1b-a403-c316bac28286.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/passion-changes-things/index.html</link>
-            <guid isPermaLink="false">275f7709-5a5d-4972-b15a-e5a2ada647be</guid>
-            <pubDate>Thu, 24 Dec 2015 13:36:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
