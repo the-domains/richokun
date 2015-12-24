@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T19:36:46.006Z'
-dateModified: '2015-12-19T19:05:46.938Z'
+datePublished: '2015-12-24T11:02:26.128Z'
+dateModified: '2015-12-24T11:02:22.358Z'
 title: Passion changes things
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
@@ -37,4 +37,4 @@ causes it to transform
 to the very sweetest source
 
 as the newly purposed norm.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc211977-65d3-487a-9197-990442c885e9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae131f3-cceb-4f1b-a403-c316bac28286.jpg)
