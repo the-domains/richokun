@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T10:25:06.692Z'
-dateModified: '2015-12-23T10:24:49.679Z'
+datePublished: '2015-12-24T10:54:56.992Z'
+dateModified: '2015-12-24T10:54:51.646Z'
 title: If I see in you
 author: []
+sourcePath: _posts/2015-12-23-if-i-see-in-you.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-if-i-see-in-you.md
-published: true
 url: if-i-see-in-you/index.html
-_type: Article
+_type: WebPage
 
 ---
 If I see in you
