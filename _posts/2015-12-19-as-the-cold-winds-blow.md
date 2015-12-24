@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:37:58.631Z'
-dateModified: '2015-12-24T13:28:43.633Z'
+datePublished: '2015-12-24T13:46:54.032Z'
+dateModified: '2015-12-24T13:46:46.398Z'
 title: as the cold winds blow
 author: []
 sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
@@ -22,7 +22,7 @@ url: as-the-cold-winds-blow/index.html
 _type: Article
 
 ---
-as the cold winds blow 
+as the cold winds blow ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48635855-3e15-4386-ab2a-9e5691916ac6.jpg)
 
 Frost 
 sprinkled across the fields,
@@ -36,4 +36,4 @@ in solitude withdrawn.
 But the sun still shines,
 and the grasses still grow
 in ever advancing designs,
-as the cold winds blow. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48635855-3e15-4386-ab2a-9e5691916ac6.jpg)
+as the cold winds blow.
