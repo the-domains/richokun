@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T10:55:19.915Z'
-dateModified: '2015-12-24T10:55:13.636Z'
+datePublished: '2015-12-24T13:36:12.120Z'
+dateModified: '2015-12-24T13:35:51.345Z'
 title: Now I allow
 author: []
 sourcePath: _posts/2015-12-23-now-i-allow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: now-i-allow/index.html
-_type: Blurb
+_type: Article
 
 ---
 Now I allow
