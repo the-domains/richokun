@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T23:30:43.912Z'
-dateModified: '2015-12-19T23:30:28.814Z'
+datePublished: '2015-12-24T10:59:48.766Z'
+dateModified: '2015-12-24T10:55:50.310Z'
 title: a tiny little dot
 author: []
 sourcePath: _posts/2015-12-19-a-tiny-little-dot.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-tiny-little-dot/index.html
-_type: Article
+_type: Blurb
 
 ---
 a tiny little dot
