@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 19:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 20:01:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[In divine fashion]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
             <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
             <pubDate>Thu, 24 Dec 2015 19:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fearful]]></title>
+            <description><![CDATA[<article><h1>The Fearful</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c4318de3aa8e5d012366cd6f46b2cc0f7a666f13.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/the-fearful/index.html</link>
+            <guid isPermaLink="false">924d95e2-f0a4-428a-a8f8-a7bbc540479a</guid>
+            <pubDate>Thu, 24 Dec 2015 20:01:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[an ageless essence]]></title>
@@ -96,13 +103,6 @@ to notice, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06d93
             <link>https://thegrid.ai/richokun/nobodys-dinner/index.html</link>
             <guid isPermaLink="false">e537fd5f-77c6-4e44-b820-5ce9153d50b7</guid>
             <pubDate>Thu, 24 Dec 2015 19:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intuition]]></title>
-            <description><![CDATA[<article><h1>Intuition</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cf8a613-95ea-4290-93dd-1aaeba288588.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/intuition/index.html</link>
-            <guid isPermaLink="false">7e92c6c3-429d-47b7-b669-b95b9a5dfaa3</guid>
-            <pubDate>Thu, 24 Dec 2015 19:44:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
