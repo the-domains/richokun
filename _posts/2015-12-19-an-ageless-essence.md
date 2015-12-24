@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: poem and painting
-datePublished: '2015-12-24T13:51:58.802Z'
-dateModified: '2015-12-24T13:51:15.976Z'
+datePublished: '2015-12-24T19:57:54.772Z'
+dateModified: '2015-12-24T19:57:49.968Z'
 title: an ageless essence
 author: []
 sourcePath: _posts/2015-12-19-an-ageless-essence.md
@@ -22,9 +22,6 @@ url: an-ageless-essence/index.html
 _type: Article
 
 ---
-an ageless essence
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10191978-a918-435a-9591-3f8c25f66a66.jpg)
-
 I stare, into the knowing 
 of an ageless essence,
 only aware,
@@ -49,4 +46,4 @@ each fragrant deviation,
 and my soul, 
 will sense in the world,
 the whole,
-of creation.
+of creation. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10191978-a918-435a-9591-3f8c25f66a66.jpg)
