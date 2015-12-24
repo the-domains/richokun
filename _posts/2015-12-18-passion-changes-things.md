@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T18:59:13.977Z'
-dateModified: '2015-12-24T18:58:50.434Z'
+datePublished: '2015-12-24T20:22:36.086Z'
+dateModified: '2015-12-24T19:56:39.344Z'
 title: Passion changes things
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
