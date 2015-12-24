@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:36:40.505Z'
-dateModified: '2015-12-24T13:28:09.721Z'
+datePublished: '2015-12-24T13:49:06.225Z'
+dateModified: '2015-12-24T13:49:02.352Z'
 title: a greeting machine
 author: []
 sourcePath: _posts/2015-12-19-a-greeting-machine.md
