@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:41:35.919Z'
-dateModified: '2015-12-19T22:41:11.189Z'
+datePublished: '2015-12-24T10:59:57.654Z'
+dateModified: '2015-12-24T10:56:06.423Z'
 title: a path of gold
 author: []
+sourcePath: _posts/2015-12-19-a-path-of-gold.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-a-path-of-gold.md
-published: true
 url: a-path-of-gold/index.html
-_type: Article
+_type: Blurb
 
 ---
 a path of gold
