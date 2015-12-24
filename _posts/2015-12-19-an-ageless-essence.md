@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: poem and painting
-datePublished: '2015-12-19T19:41:04.929Z'
-dateModified: '2015-12-19T19:40:49.329Z'
+datePublished: '2015-12-24T11:01:21.048Z'
+dateModified: '2015-12-24T10:59:05.114Z'
 title: an ageless essence
 author: []
+sourcePath: _posts/2015-12-19-an-ageless-essence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-an-ageless-essence.md
-published: true
 url: an-ageless-essence/index.html
-_type: Article
+_type: Blurb
 
 ---
 an ageless essence
