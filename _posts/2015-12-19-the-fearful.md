@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T11:00:57.266Z'
-dateModified: '2015-12-24T10:58:31.049Z'
+datePublished: '2015-12-24T13:51:50.557Z'
+dateModified: '2015-12-24T13:51:33.513Z'
 title: The Fearful
 author: []
 sourcePath: _posts/2015-12-19-the-fearful.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-fearful/index.html
-_type: Blurb
+_type: Article
 
 ---
 The Fearful
