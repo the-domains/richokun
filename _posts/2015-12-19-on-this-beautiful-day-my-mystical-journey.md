@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:40:18.451Z'
-dateModified: '2015-12-24T13:40:12.151Z'
+datePublished: '2015-12-24T13:43:47.087Z'
+dateModified: '2015-12-24T13:43:42.867Z'
 title: On this beautiful day - My mystical journey
 author: []
 sourcePath: _posts/2015-12-19-on-this-beautiful-day-my-mystical-journey.md
