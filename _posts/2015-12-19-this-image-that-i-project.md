@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:08:16.832Z'
-dateModified: '2015-12-19T22:07:47.927Z'
+datePublished: '2015-12-24T13:36:45.322Z'
+dateModified: '2015-12-24T11:03:22.396Z'
 title: This image that I project
 author: []
+sourcePath: _posts/2015-12-19-this-image-that-i-project.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-this-image-that-i-project.md
-published: true
 url: this-image-that-i-project/index.html
-_type: Article
+_type: Blurb
 
 ---
 This image that I project
