@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T11:11:37.363Z'
-dateModified: '2015-12-24T11:11:31.592Z'
+datePublished: '2015-12-24T19:52:13.358Z'
+dateModified: '2015-12-24T19:45:31.890Z'
 title: "Nobody's Dinner"
 author: []
 sourcePath: _posts/2015-12-23-nobodys-dinner.md
