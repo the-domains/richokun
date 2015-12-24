@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T10:53:15.580Z'
-dateModified: '2015-12-24T10:53:10.765Z'
+datePublished: '2015-12-24T10:55:19.915Z'
+dateModified: '2015-12-24T10:55:13.636Z'
 title: Now I allow
 author: []
 sourcePath: _posts/2015-12-23-now-i-allow.md
