@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T15:12:29.920Z'
-dateModified: '2015-12-23T15:12:26.522Z'
+datePublished: '2015-12-24T11:01:09.375Z'
+dateModified: '2015-12-24T10:58:44.419Z'
 title: as the cold winds blow
 author: []
 sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: as-the-cold-winds-blow/index.html
-_type: Article
+_type: Blurb
 
 ---
 as the cold winds blow 
