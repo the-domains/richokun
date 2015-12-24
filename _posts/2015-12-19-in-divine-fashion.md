@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:45:14.933Z'
-dateModified: '2015-12-24T13:45:07.423Z'
+datePublished: '2015-12-24T15:02:02.474Z'
+dateModified: '2015-12-24T15:01:53.912Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
