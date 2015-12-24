@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-19T22:35:31.479Z'
-dateModified: '2015-12-19T22:34:48.567Z'
+datePublished: '2015-12-24T11:00:05.205Z'
+dateModified: '2015-12-24T10:56:19.953Z'
 title: a greeting machine
 author: []
+sourcePath: _posts/2015-12-19-a-greeting-machine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-19-a-greeting-machine.md
-published: true
 url: a-greeting-machine/index.html
-_type: Article
+_type: Blurb
 
 ---
 a greeting machine
@@ -38,4 +38,4 @@ And when we went on our way,
 from then on and everyday,
 I was the best greeting machine
 the world has ever seen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a033d6c4-f236-424e-98aa-42a5e51ffc22.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84cc0b3a-ef3e-44fe-b17c-591604d0eb4e.jpg)
