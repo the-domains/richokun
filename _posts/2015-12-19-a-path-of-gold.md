@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:36:36.190Z'
-dateModified: '2015-12-24T13:27:57.621Z'
+datePublished: '2015-12-24T13:48:26.868Z'
+dateModified: '2015-12-24T13:48:21.045Z'
 title: a path of gold
 author: []
 sourcePath: _posts/2015-12-19-a-path-of-gold.md
@@ -37,5 +37,3 @@ this inspiring sight to behold,
 once found, I must follow 
 this mystical path of gold.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8e9803-4cfb-4cb5-b8d1-9ab24e184169.jpg)
-null
-null
