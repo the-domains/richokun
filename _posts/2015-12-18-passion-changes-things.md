@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T11:02:26.128Z'
-dateModified: '2015-12-24T11:02:22.358Z'
+datePublished: '2015-12-24T13:36:02.988Z'
+dateModified: '2015-12-24T13:28:31.151Z'
 title: Passion changes things
 author: []
 sourcePath: _posts/2015-12-18-passion-changes-things.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: passion-changes-things/index.html
-_type: Blurb
+_type: Article
 
 ---
 While 
