@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:37:41.595Z'
-dateModified: '2015-12-24T13:29:23.813Z'
+datePublished: '2015-12-24T13:40:18.451Z'
+dateModified: '2015-12-24T13:40:12.151Z'
 title: On this beautiful day - My mystical journey
 author: []
 sourcePath: _posts/2015-12-19-on-this-beautiful-day-my-mystical-journey.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 My Mystical Journey
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a536f1d9-627e-4f4f-b4cc-fdeb8750a7bf.jpg)
 
 On this beautiful day,
 Perchance I may,
@@ -30,4 +31,3 @@ come upon the key,
 that unlocks the way,
 to my very own
 mystical journey.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a536f1d9-627e-4f4f-b4cc-fdeb8750a7bf.jpg)
