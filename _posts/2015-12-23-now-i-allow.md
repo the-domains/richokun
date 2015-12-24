@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T10:33:17.131Z'
-dateModified: '2015-12-23T10:32:58.583Z'
+datePublished: '2015-12-24T10:53:15.580Z'
+dateModified: '2015-12-24T10:53:10.765Z'
 title: Now I allow
 author: []
+sourcePath: _posts/2015-12-23-now-i-allow.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-23-now-i-allow.md
-published: true
 url: now-i-allow/index.html
-_type: Article
+_type: Blurb
 
 ---
 Now I allow
