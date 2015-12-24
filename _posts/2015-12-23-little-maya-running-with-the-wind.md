@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T10:59:36.618Z'
-dateModified: '2015-12-24T10:55:36.392Z'
+datePublished: '2015-12-24T13:36:24.699Z'
+dateModified: '2015-12-24T13:27:37.525Z'
 title: Little Maya running with the wind
 author: []
 sourcePath: _posts/2015-12-23-little-maya-running-with-the-wind.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: little-maya-running-with-the-wind/index.html
-_type: Blurb
+_type: Article
 
 ---
 Maya running with the wind
