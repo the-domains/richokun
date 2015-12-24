@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T14:51:48.098Z'
-dateModified: '2015-12-24T14:51:45.412Z'
+datePublished: '2015-12-24T19:54:48.472Z'
+dateModified: '2015-12-24T19:54:45.821Z'
 title: The Fearful
 author: []
 sourcePath: _posts/2015-12-19-the-fearful.md
@@ -22,8 +22,6 @@ url: the-fearful/index.html
 _type: Article
 
 ---
-The Fearful
-
 We are human beings, and as such are verbs, a set of processes, not a noun. 
 
 How terrible must it be
