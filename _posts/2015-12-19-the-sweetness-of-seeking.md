@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T11:01:29.792Z'
-dateModified: '2015-12-19T19:06:07.898Z'
+datePublished: '2015-12-24T19:57:03.129Z'
+dateModified: '2015-12-24T19:57:00.321Z'
 title: The Sweetness of seeking
 author: []
 sourcePath: _posts/2015-12-19-the-sweetness-of-seeking.md
@@ -22,8 +22,6 @@ url: the-sweetness-of-seeking/index.html
 _type: Article
 
 ---
-# The Sweetness of seeking
-
 How do I give up
 
 the sweetness of seeking?
