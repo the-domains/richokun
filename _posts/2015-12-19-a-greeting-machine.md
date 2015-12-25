@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:52:44.518Z'
-dateModified: '2015-12-24T19:49:10.119Z'
+datePublished: '2015-12-25T11:03:55.991Z'
+dateModified: '2015-12-25T11:03:48.888Z'
 title: a greeting machine
 author: []
 sourcePath: _posts/2015-12-19-a-greeting-machine.md
@@ -44,4 +44,4 @@ from then on and everyday,
 I was the best greeting machine 
 
 the world has ever seen.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84cc0b3a-ef3e-44fe-b17c-591604d0eb4e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28ec4009f7fdd5ee485e5ee43fbfc8089259c7b7.jpg)
