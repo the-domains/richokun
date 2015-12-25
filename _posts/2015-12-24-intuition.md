@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T20:23:03.341Z'
-dateModified: '2015-12-24T20:22:56.907Z'
-title: 'I’m the what, '
+datePublished: '2015-12-25T10:34:10.828Z'
+dateModified: '2015-12-25T10:34:07.179Z'
+title: Intuition
 author: []
 sourcePath: _posts/2015-12-24-intuition.md
 published: true
@@ -22,20 +22,22 @@ url: intuition/index.html
 _type: Article
 
 ---
-# I'm the what, 
+[I'm the what, ][0]
 
-# you're the how, 
+[you're the how, ][0]
 
-# so diddilly, 
+[so diddilly, 
 daddilly, 
-dawdilly now, 
+dawdilly now, ][0]
 
-# please tell me; 
+[please tell me; ][0]
 
-# what to do,
-which way to go, 
+[what to do,
+which way to go, ][0]
 
-# or should I just 
+[or should I just ][0]
 
-# Eeny, meeny, miny, moe?
+[Eeny, meeny, miny, moe?][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cf8a613-95ea-4290-93dd-1aaeba288588.jpg)
+
+[0]: null
