@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T10:41:47.178Z'
-dateModified: '2015-12-25T10:41:43.733Z'
+datePublished: '2015-12-25T10:42:39.680Z'
+dateModified: '2015-12-25T10:42:37.195Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
