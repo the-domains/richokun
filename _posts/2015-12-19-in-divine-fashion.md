@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:42:33.243Z'
-dateModified: '2015-12-25T11:42:30.350Z'
+datePublished: '2015-12-26T22:00:04.061Z'
+dateModified: '2015-12-26T21:59:55.629Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
@@ -48,4 +48,4 @@ worry not,
 just return and alter 
 
 to the love you forgot.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c870bfb644f3b42f337b31cc28a599ef963f3b40.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/206c75bddf42a4bb8ea657fb4049c4460d79319d.jpg)
