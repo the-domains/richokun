@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T14:16:39.690Z'
-dateModified: '2015-12-26T14:16:35.271Z'
+datePublished: '2015-12-26T14:17:27.374Z'
+dateModified: '2015-12-26T14:17:24.383Z'
 title: a greeting machine
 author: []
 sourcePath: _posts/2015-12-19-a-greeting-machine.md
