@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T11:02:51.055Z'
-dateModified: '2015-12-25T11:02:48.666Z'
+datePublished: '2015-12-27T16:49:19.894Z'
+dateModified: '2015-12-27T16:49:05.227Z'
 title: as the cold winds blow
 author: []
 sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
@@ -42,4 +42,4 @@ and the grasses still grow
 
 in ever advancing designs, 
 
-as the cold winds blow. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c15826f1cfbd1f1ebb58d69a49bd82142d3640ad.jpg)
+as the cold winds blow. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e3952600536e39850eaddc3173cb25537efe14.jpg)
