@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T15:48:37.100Z'
-dateModified: '2015-12-27T15:48:17.834Z'
+datePublished: '2015-12-27T16:09:38.761Z'
+dateModified: '2015-12-27T16:09:33.000Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
@@ -27,7 +27,8 @@ It is a miserable state of mind to have few things to desire and many things to 
 Articulated in
 divine fashion, 
 
-first,
+first, 
+
 live in desire, 
 
 until 
@@ -35,12 +36,14 @@ your passion
 catches fire. 
 
 Then, 
+
 spare no ration, 
 
 merely live 
 that inspired desire. 
 
-And,
+And, 
+
 if you falter 
 
 worry not, 
@@ -48,4 +51,4 @@ worry not,
 just return and alter 
 
 to the love you forgot.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/206c75bddf42a4bb8ea657fb4049c4460d79319d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd88a05a675101208988435fafd7a18f6ad05e35.jpg)
