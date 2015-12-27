@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T16:15:52.085Z'
-dateModified: '2015-12-27T16:15:39.861Z'
+datePublished: '2015-12-27T16:17:24.146Z'
+dateModified: '2015-12-27T16:17:20.685Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
@@ -22,7 +22,7 @@ url: in-divine-fashion/index.html
 _type: Article
 
 ---
-It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon 
+It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd88a05a675101208988435fafd7a18f6ad05e35.jpg)
 
 Articulated in
 divine fashion, 
@@ -51,4 +51,3 @@ worry not,
 just return and alter 
 
 to the love you forgot.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd88a05a675101208988435fafd7a18f6ad05e35.jpg)
