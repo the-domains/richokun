@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T16:17:24.146Z'
-dateModified: '2015-12-27T16:17:20.685Z'
+datePublished: '2015-12-27T17:04:45.403Z'
+dateModified: '2015-12-27T17:04:36.834Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
@@ -46,8 +46,4 @@ And,
 
 if you falter 
 
-worry not, 
-
-just return and alter 
-
-to the love you forgot.
+worry not,  just return and alter to the love you forgot.
