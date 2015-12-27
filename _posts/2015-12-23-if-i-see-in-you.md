@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T13:36:18.835Z'
-dateModified: '2015-12-24T13:27:20.324Z'
+datePublished: '2015-12-27T16:50:29.334Z'
+dateModified: '2015-12-27T16:50:25.845Z'
 title: If I see in you
 author: []
 sourcePath: _posts/2015-12-23-if-i-see-in-you.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: if-i-see-in-you/index.html
-_type: WebPage
+_type: Article
 
 ---
 If I see in you
@@ -30,4 +30,4 @@ what I want to see
 
 then I awaken what's true 
 
-deep inside of me. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e358c30d-22eb-4382-9b60-57e12936d2af.jpg)
+deep inside of me. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbdd60df299afd2f689b51864a22a3ecbb6f28e0.jpg)
