@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 11:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 11:06:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a path of gold]]></title>
+            <description><![CDATA[<article><h1>a path of gold</h1><p>A blanket of autumn leaves, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09e33eb3d3fffb2791bf951fa539b0a1060360e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/a-path-of-gold/index.html</link>
+            <guid isPermaLink="false">4c13da3f-ddd2-4988-af49-910a2b3b1852</guid>
+            <pubDate>Tue, 29 Dec 2015 11:05:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[as the cold winds blow]]></title>
             <description><![CDATA[<article><h1>as the cold winds blow</h1><p>Frost 
@@ -71,13 +78,6 @@ with my dog, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/206
             <link>https://thegrid.ai/richokun/a-tiny-little-dot/index.html</link>
             <guid isPermaLink="false">cc7087fc-dd4e-4ade-a16f-46b692999dfd</guid>
             <pubDate>Thu, 24 Dec 2015 19:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To be playful]]></title>
-            <description><![CDATA[<article><h1>To be playful</h1><p>To be </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8568d9676d507708434f7eb15303636d65e45444.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/to-be-playful/index.html</link>
-            <guid isPermaLink="false">4f5e95dd-b52e-44a4-9eb1-2aaff0b05408</guid>
-            <pubDate>Fri, 25 Dec 2015 10:40:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
