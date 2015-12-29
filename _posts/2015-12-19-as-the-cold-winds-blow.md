@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T16:49:19.894Z'
-dateModified: '2015-12-27T16:49:05.227Z'
+datePublished: '2015-12-29T11:01:52.409Z'
+dateModified: '2015-12-29T11:01:49.251Z'
 title: as the cold winds blow
 author: []
 sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
@@ -22,6 +22,8 @@ url: as-the-cold-winds-blow/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6c93c36c0e614a69a65697fc3338ce558ffc56b.jpg)
+
 Frost 
 sprinkled across the fields,
 whose flowers are no more. 
@@ -42,4 +44,4 @@ and the grasses still grow
 
 in ever advancing designs, 
 
-as the cold winds blow. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e3952600536e39850eaddc3173cb25537efe14.jpg)
+as the cold winds blow.
