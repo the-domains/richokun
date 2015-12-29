@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:52:36.395Z'
-dateModified: '2015-12-24T19:48:20.302Z'
+datePublished: '2015-12-29T11:05:53.992Z'
+dateModified: '2015-12-29T11:05:46.760Z'
 title: a path of gold
 author: []
 sourcePath: _posts/2015-12-19-a-path-of-gold.md
@@ -22,6 +22,8 @@ url: a-path-of-gold/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/09e33eb3d3fffb2791bf951fa539b0a1060360e7.jpg)
+
 A blanket of autumn leaves, 
 
 in shades of orange and brown. 
@@ -43,4 +45,3 @@ this inspiring sight to behold,
 
 once found, I must follow 
 this mystical path of gold.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e8e9803-4cfb-4cb5-b8d1-9ab24e184169.jpg)
