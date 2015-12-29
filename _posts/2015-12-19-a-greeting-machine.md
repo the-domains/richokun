@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T16:51:15.351Z'
-dateModified: '2015-12-27T16:51:02.459Z'
+datePublished: '2015-12-29T11:10:21.218Z'
+dateModified: '2015-12-29T11:10:16.270Z'
 title: a greeting machine
 author: []
 sourcePath: _posts/2015-12-19-a-greeting-machine.md
@@ -22,6 +22,8 @@ url: a-greeting-machine/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2061067f6736fb85cd8670e1d8995120ed99f38f.jpg)
+
 I was out for a walk 
 with my dog, 
 
@@ -44,4 +46,3 @@ from then on and everyday,
 I was the best greeting machine 
 
 the world has ever seen.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/003cf992bd1109089a26822a736fff4ba13ce720.jpg)
