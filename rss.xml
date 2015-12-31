@@ -4,11 +4,25 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 13:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 18:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[the great pretender]]></title>
+            <description><![CDATA[<article><h1>the great pretender</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eca4c5365269e044185cd075e508687132302102.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/the-great-pretender/index.html</link>
+            <guid isPermaLink="false">ddf697c3-89ec-4ef1-a554-7b91103454bb</guid>
+            <pubDate>Thu, 31 Dec 2015 18:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobody's Dinner]]></title>
+            <description><![CDATA[<article><h1>Nobody's Dinner</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c450b41546ac64e3d80293133d5e1127a392b2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/nobodys-dinner/index.html</link>
+            <guid isPermaLink="false">e537fd5f-77c6-4e44-b820-5ce9153d50b7</guid>
+            <pubDate>Wed, 30 Dec 2015 19:47:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[good news]]></title>
-            <description><![CDATA[<article><h1>good news</h1><p>The bad news is nothing lasts forever, The good news is nothing lasts forever. - J. Cole. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04cd06b108a0fd122ec9e7052dfab162395a16a3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>good news</h1><p>The bad news is nothing lasts forever, The good news is nothing lasts forever. - J. Cole. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a450b3c86b6db1c3f0e80ea0880d97004ee871b9.jpg"></article>]]></description>
             <link>https://thegrid.ai/richokun/good-news/index.html</link>
             <guid isPermaLink="false">c700bc96-de2d-4e19-bc37-a34c73b46754</guid>
             <pubDate>Wed, 30 Dec 2015 13:41:30 GMT</pubDate>
@@ -83,20 +97,6 @@ a very big frog. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p
             <link>https://thegrid.ai/richokun/my-dreams-have-come/index.html</link>
             <guid isPermaLink="false">f7b1fb92-32ab-498e-9729-0ac8b18bf356</guid>
             <pubDate>Sat, 26 Dec 2015 21:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Intuition]]></title>
-            <description><![CDATA[<article><h1>Intuition</h1><p>I’m the what, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd20987fd2da4d6a017fdf644a03566087601c42.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/intuition/index.html</link>
-            <guid isPermaLink="false">7e92c6c3-429d-47b7-b669-b95b9a5dfaa3</guid>
-            <pubDate>Fri, 25 Dec 2015 11:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passion changes things]]></title>
-            <description><![CDATA[<article><h1>Passion changes things</h1><p>While </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/541c38f396122eccc21689db8313d4a033607114.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/passion-changes-things/index.html</link>
-            <guid isPermaLink="false">275f7709-5a5d-4972-b15a-e5a2ada647be</guid>
-            <pubDate>Thu, 24 Dec 2015 20:22:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
