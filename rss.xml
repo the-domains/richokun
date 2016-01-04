@@ -4,11 +4,26 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 18:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 11:19:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[I see my breath]]></title>
+            <description><![CDATA[<article><h1>I see my breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee013cb1c58502cbe19168ff250677aab4cc066c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/i-see-my-breath/index.html</link>
+            <guid isPermaLink="false">7ad9d255-0bff-425f-833f-0a949378401f</guid>
+            <pubDate>Mon, 04 Jan 2016 11:19:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[the great pretender]]></title>
-            <description><![CDATA[<article><h1>the great pretender</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eca4c5365269e044185cd075e508687132302102.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>the great pretender</h1><p>Silly me
+I thought I had to 
+force my way in.
+That I had to 
+break the door down,
+not knowing 
+that its always open,
+and its not a verb, 
+its a noun. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ef66d3322febf9612ac28cc0b91f285ede49080.jpg"></article>]]></description>
             <link>https://thegrid.ai/richokun/the-great-pretender/index.html</link>
             <guid isPermaLink="false">ddf697c3-89ec-4ef1-a554-7b91103454bb</guid>
             <pubDate>Thu, 31 Dec 2015 18:01:48 GMT</pubDate>
@@ -90,13 +105,6 @@ a very big frog. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p
             <link>https://thegrid.ai/richokun/if-i-see-in-you/index.html</link>
             <guid isPermaLink="false">e18e769e-25cb-4d02-9f7f-6a061b9a8e6d</guid>
             <pubDate>Sun, 27 Dec 2015 17:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Dreams have come]]></title>
-            <description><![CDATA[<article><h1>My Dreams have come</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a62eacc642bbbce50e3bd0ca7c5d888cef205a3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/my-dreams-have-come/index.html</link>
-            <guid isPermaLink="false">f7b1fb92-32ab-498e-9729-0ac8b18bf356</guid>
-            <pubDate>Sat, 26 Dec 2015 21:28:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
