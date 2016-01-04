@@ -4,11 +4,21 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 11:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 19:51:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Big Brother]]></title>
+            <description><![CDATA[<article><h1>Big Brother</h1><p>Life, love and laughter
+and meaningful relations
+its what we're all after
+with sibling foundations</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a26c42cdc4297a44b77b1a3add92780181790b75.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/big-brother/index.html</link>
+            <guid isPermaLink="false">d25ae8a9-3d0a-4c8d-8e51-247d07bf712c</guid>
+            <pubDate>Mon, 04 Jan 2016 19:51:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[I see my breath]]></title>
-            <description><![CDATA[<article><h1>I see my breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee013cb1c58502cbe19168ff250677aab4cc066c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>I see my breath</h1><p>What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df0f569e7c109dbf1abd767b5950a3f8b63e5eef.jpg"></article>]]></description>
             <link>https://thegrid.ai/richokun/i-see-my-breath/index.html</link>
             <guid isPermaLink="false">7ad9d255-0bff-425f-833f-0a949378401f</guid>
             <pubDate>Mon, 04 Jan 2016 11:19:43 GMT</pubDate>
@@ -98,13 +108,6 @@ a very big frog. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p
             <link>https://thegrid.ai/richokun/a-greeting-machine/index.html</link>
             <guid isPermaLink="false">08dfb086-a9e1-4c40-8d8b-545040e447f8</guid>
             <pubDate>Tue, 29 Dec 2015 11:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[If I see in you]]></title>
-            <description><![CDATA[<article><h1>If I see in you</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7436f0495b5edf9138a52876d6b792e1c894bad2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/if-i-see-in-you/index.html</link>
-            <guid isPermaLink="false">e18e769e-25cb-4d02-9f7f-6a061b9a8e6d</guid>
-            <pubDate>Sun, 27 Dec 2015 17:07:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
