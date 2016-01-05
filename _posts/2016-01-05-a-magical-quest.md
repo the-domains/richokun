@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T15:57:04.924Z'
-dateModified: '2016-01-05T15:56:45.923Z'
+datePublished: '2016-01-05T23:18:42.286Z'
+dateModified: '2016-01-05T23:18:36.584Z'
 title: a magical quest
 author: []
+sourcePath: _posts/2016-01-05-a-magical-quest.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-a-magical-quest.md
-published: true
 url: a-magical-quest/index.html
 _type: Article
 
@@ -32,9 +32,9 @@ more beautiful
 
 than a dream,
 
-that is well expressed, 
+well expressed, 
 
-and becoming? 
+and then becoming? 
 
 Its a magical quest,
 
