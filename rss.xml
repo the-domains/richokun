@@ -4,8 +4,15 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 14:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 11:21:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[can you remember]]></title>
+            <description><![CDATA[<article><h1>can you remember</h1><p>Can you remember </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d166e6c235e3b00d8b73eaaaa4979f4618cc6983.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/can-you-remember/index.html</link>
+            <guid isPermaLink="false">93402fb6-8d72-483c-84d7-771cc54e0e07</guid>
+            <pubDate>Mon, 11 Jan 2016 11:21:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Love]]></title>
             <description><![CDATA[<article><h1>Love</h1><p>nor was it 
@@ -33,7 +40,7 @@ any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img
             <description><![CDATA[<article><h1>Big Brother</h1><p>Life, love and laughter
 and meaningful relations
 its what we're all after
-with sibling foundations</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fedd6d64154df1978abeb7db689ab37d604f1a0.jpg"></article>]]></description>
+with sibling foundations</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13bdc85258f61b4284513dca156ef482ec371c2d.jpg"></article>]]></description>
             <link>https://thegrid.ai/richokun/big-brother/index.html</link>
             <guid isPermaLink="false">d25ae8a9-3d0a-4c8d-8e51-247d07bf712c</guid>
             <pubDate>Mon, 04 Jan 2016 19:51:40 GMT</pubDate>
@@ -99,13 +106,6 @@ to express your 'ism'.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-
             <link>https://thegrid.ai/richokun/advantages/index.html</link>
             <guid isPermaLink="false">619f8547-4531-4167-bd06-988dd2dc9bac</guid>
             <pubDate>Tue, 29 Dec 2015 17:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[a path of gold]]></title>
-            <description><![CDATA[<article><h1>a path of gold</h1><p>A blanket of autumn leaves, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dad30114ceadf65ba6e089f569aa5ef6e0ce862.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/a-path-of-gold/index.html</link>
-            <guid isPermaLink="false">4c13da3f-ddd2-4988-af49-910a2b3b1852</guid>
-            <pubDate>Tue, 29 Dec 2015 11:09:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
