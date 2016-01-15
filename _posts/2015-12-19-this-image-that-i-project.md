@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:49:51.987Z'
-dateModified: '2015-12-24T19:49:45.930Z'
+datePublished: '2016-01-15T10:51:57.297Z'
+dateModified: '2016-01-15T10:51:54.725Z'
 title: This image that I project
 author: []
 sourcePath: _posts/2015-12-19-this-image-that-i-project.md
@@ -35,4 +35,4 @@ to reject,
 
 and simply
 fall in with the flow.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/022ac530-dabe-44b3-852f-523089fef3cc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccf2758456d028efc37476609c0f5e2c1e5aeced.jpg)
