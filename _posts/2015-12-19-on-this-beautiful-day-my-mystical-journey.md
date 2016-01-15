@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T10:49:55.217Z'
+datePublished: '2016-01-15T10:49:55.241Z'
 dateModified: '2016-01-15T10:49:47.842Z'
 title: On this beautiful day - My mystical journey
 author: []
