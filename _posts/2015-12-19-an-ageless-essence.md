@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: poem and painting
-datePublished: '2015-12-24T19:57:54.772Z'
-dateModified: '2015-12-24T19:57:49.968Z'
+description: ''
+datePublished: '2016-01-15T10:48:19.271Z'
+dateModified: '2016-01-15T10:47:10.476Z'
 title: an ageless essence
 author: []
 sourcePath: _posts/2015-12-19-an-ageless-essence.md
@@ -46,4 +46,4 @@ each fragrant deviation,
 and my soul, 
 will sense in the world,
 the whole,
-of creation. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10191978-a918-435a-9591-3f8c25f66a66.jpg)
+of creation. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e604c94131f14b457843e531ca94af8b0b466de2.jpg)
