@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:52:01.523Z'
-dateModified: '2015-12-24T19:51:58.676Z'
+datePublished: '2016-01-15T10:49:55.217Z'
+dateModified: '2016-01-15T10:49:47.842Z'
 title: On this beautiful day - My mystical journey
 author: []
 sourcePath: _posts/2015-12-19-on-this-beautiful-day-my-mystical-journey.md
@@ -32,4 +32,4 @@ that unlocks the way,
 
 to my very own
 mystical journey.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a536f1d9-627e-4f4f-b4cc-fdeb8750a7bf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2c9ed493f4576fdf0669e6be72927875ec4da6b.jpg)
