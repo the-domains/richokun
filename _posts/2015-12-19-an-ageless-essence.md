@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T11:39:47.046Z'
-dateModified: '2016-01-15T11:39:46.734Z'
+datePublished: '2016-01-15T11:39:47.222Z'
+dateModified: '2016-01-15T11:39:47.046Z'
 title: an ageless essence
 author: []
 sourcePath: _posts/2015-12-19-an-ageless-essence.md
