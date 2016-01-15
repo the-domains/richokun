@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T10:55:14.888Z'
-dateModified: '2016-01-15T10:55:14.792Z'
+datePublished: '2016-01-15T10:55:14.972Z'
+dateModified: '2016-01-15T10:55:14.908Z'
 title: The Fearful
 author: []
 sourcePath: _posts/2015-12-19-the-fearful.md
