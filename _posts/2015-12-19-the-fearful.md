@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T10:55:15.105Z'
-dateModified: '2016-01-15T10:55:14.972Z'
+datePublished: '2016-01-15T10:58:49.574Z'
+dateModified: '2016-01-15T10:58:45.961Z'
 title: The Fearful
 author: []
 sourcePath: _posts/2015-12-19-the-fearful.md
@@ -22,6 +22,8 @@ url: the-fearful/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/833dcb25-9dc7-4349-abbf-adc27640ac6e.jpg)
+
 We are human beings, and as such are verbs, a set of processes, not a noun. How terrible must it be
 to live in fear all the time.
 To always be angry,
@@ -36,4 +38,3 @@ I really don't understand
 how blind, can blind be.
 Society must countermand
 and re-find its sanity.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/833dcb25-9dc7-4349-abbf-adc27640ac6e.jpg)
