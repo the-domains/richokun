@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T10:48:19.320Z'
-dateModified: '2016-01-15T10:47:10.476Z'
+datePublished: '2016-01-15T11:39:46.651Z'
+dateModified: '2016-01-15T11:39:43.773Z'
 title: an ageless essence
 author: []
 sourcePath: _posts/2015-12-19-an-ageless-essence.md
@@ -22,6 +22,8 @@ url: an-ageless-essence/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e604c94131f14b457843e531ca94af8b0b466de2.jpg)
+
 I stare, into the knowing 
 of an ageless essence,
 only aware,
@@ -46,4 +48,4 @@ each fragrant deviation,
 and my soul, 
 will sense in the world,
 the whole,
-of creation. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e604c94131f14b457843e531ca94af8b0b466de2.jpg)
+of creation.
