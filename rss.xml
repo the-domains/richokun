@@ -4,8 +4,16 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 10:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 10:52:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This image that I project]]></title>
+            <description><![CDATA[<article><h1>This image that I project</h1><p>There's this image 
+I project, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccf2758456d028efc37476609c0f5e2c1e5aeced.jpg"></article>]]></description>
+            <link>https://thegrid.ai/richokun/this-image-that-i-project/index.html</link>
+            <guid isPermaLink="false">e302d4cb-b6c0-419d-bbf1-4a8a44903761</guid>
+            <pubDate>Fri, 15 Jan 2016 10:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On this beautiful day - My mystical journey]]></title>
             <description><![CDATA[<article><h1>On this beautiful day - My mystical journey</h1><p>On this beautiful day, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6db9b4bc94d2f81ebf8de54f7bf6f8c5e42aee94.jpg"></article>]]></description>
@@ -79,7 +87,7 @@ of creation. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/200
         <item>
             <title><![CDATA[Love]]></title>
             <description><![CDATA[<article><h1>Love</h1><p>nor was it 
-any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d30f315c0fce7ab2971379c44ee9207855014180.jpg"></article>]]></description>
+any inconvenience, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70bff6f59fe8bf992aa60819ce189e06f10f6fc8.jpg"></article>]]></description>
             <link>https://thegrid.ai/richokun/love/index.html</link>
             <guid isPermaLink="false">6312e602-7a39-4179-8f66-8daddb6032ad</guid>
             <pubDate>Fri, 15 Jan 2016 10:50:46 GMT</pubDate>
@@ -114,21 +122,6 @@ with sibling foundations</p><img src="https://s3-us-west-2.amazonaws.com/the-gri
             <link>https://thegrid.ai/richokun/i-see-my-breath/index.html</link>
             <guid isPermaLink="false">7ad9d255-0bff-425f-833f-0a949378401f</guid>
             <pubDate>Mon, 04 Jan 2016 11:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the great pretender]]></title>
-            <description><![CDATA[<article><h1>the great pretender</h1><p>Silly me
-I thought I had to 
-force my way in.
-That I had to 
-break the door down,
-not knowing 
-that its always open,
-and its not a verb, 
-its a noun. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ef66d3322febf9612ac28cc0b91f285ede49080.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/the-great-pretender/index.html</link>
-            <guid isPermaLink="false">ddf697c3-89ec-4ef1-a554-7b91103454bb</guid>
-            <pubDate>Thu, 31 Dec 2015 18:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
