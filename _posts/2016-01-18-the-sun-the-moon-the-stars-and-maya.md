@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Book description
-datePublished: '2016-01-18T15:33:28.252Z'
-dateModified: '2016-01-18T15:23:42.715Z'
+datePublished: '2016-01-18T16:03:26.876Z'
+dateModified: '2016-01-18T16:03:19.881Z'
 title: The Sun the Moon the Stars and Maya
 author: []
+sourcePath: _posts/2016-01-18-the-sun-the-moon-the-stars-and-maya.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-the-sun-the-moon-the-stars-and-maya.md
-published: true
 url: the-sun-the-moon-the-stars-and-maya/index.html
 _type: WebPage
 
