@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Book description
-datePublished: '2016-01-18T16:03:26.876Z'
+datePublished: '2016-01-18T16:03:26.895Z'
 dateModified: '2016-01-18T16:03:19.881Z'
 title: The Sun the Moon the Stars and Maya
 author: []
