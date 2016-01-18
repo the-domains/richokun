@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Book description
-datePublished: '2016-01-18T16:03:27.040Z'
-dateModified: '2016-01-18T16:03:19.881Z'
+datePublished: '2016-01-18T16:05:43.694Z'
+dateModified: '2016-01-18T16:05:41.062Z'
 title: The Sun the Moon the Stars and Maya
 author: []
 sourcePath: _posts/2016-01-18-the-sun-the-moon-the-stars-and-maya.md
@@ -35,4 +35,4 @@ As this book came together, I pondered my own childhood, my own upbringing, my o
 Looking around at families today, I see how difficult it can be to be able to have meaningful conversations that must compete for time and attention with the short sound bite-sized action-packed commercial menagerie and other challenging ways of being in our current societal environment. I wondered how much closer to my parents might I have been, what choices might I have made in careers, hobbies, people and other interests. 
 
 The answers to these questions sparked my courage to write and publish this book. Healing comes from within, and can benefit from stimulation of thoughts to feelings to manifestation. The subjects covered in these books are universal in their appeal and curiosity -- They ask the questions we all have. We all know the answers, but they remain hidden from us, until further questioning helps them to come out to the light.
-The Sun, the Moon, the Stars, and Maya is richly textured with over 85 quotes along with lyrical interpretations and over 90 full color illustrations making it a perfect companion for your child or for you when there are times of need or exploration. It also makes for the perfect gift for your grandchild or a family you know that could use more quality time with their children. With your purchase of either the printed or electronic versions, you are also given access to a private website that provides all the illustrations in hi-resolution downloadable format as well as audio readings of the quotes/poems and much much more.
+The Sun, the Moon, the Stars, and Maya is richly textured with over 85 quotes along with lyrical interpretations and over 90 full color illustrations making it a perfect companion for your child or for you when there are times of need or exploration. It also makes for the perfect gift for your grandchild or a family you know that could use more quality time with their children. With your purchase of either the printed or electronic versions, you are also given access to a private website that provides all the illustrations in hi-resolution downloadable format as well as audio readings of the quotes/poems and much much more. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35041480-9a38-4fbc-b60b-ddaa8e5fb749.jpg)
