@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T12:15:25.492Z'
+datePublished: '2016-01-28T12:15:25.585Z'
 dateModified: '2016-01-28T12:15:20.012Z'
 title: a magical quest
 author: []
