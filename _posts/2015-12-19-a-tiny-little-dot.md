@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-24T19:52:31.088Z'
-dateModified: '2015-12-24T19:47:13.677Z'
+datePublished: '2016-01-28T12:15:09.968Z'
+dateModified: '2016-01-28T12:15:05.501Z'
 title: a tiny little dot
 author: []
 sourcePath: _posts/2015-12-19-a-tiny-little-dot.md
