@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-05T23:18:42.286Z'
-dateModified: '2016-01-05T23:18:36.584Z'
+datePublished: '2016-01-28T12:15:25.492Z'
+dateModified: '2016-01-28T12:15:20.012Z'
 title: a magical quest
 author: []
 sourcePath: _posts/2016-01-05-a-magical-quest.md
