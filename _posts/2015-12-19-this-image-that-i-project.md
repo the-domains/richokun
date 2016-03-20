@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-15T10:51:57.671Z'
-dateModified: '2016-01-15T10:51:57.381Z'
+description: "There's this image \nI project, "
+datePublished: '2016-03-20T16:47:24.444Z'
+dateModified: '2016-03-20T16:47:21.757Z'
 title: This image that I project
 author: []
 sourcePath: _posts/2015-12-19-this-image-that-i-project.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: this-image-that-i-project/index.html
-_type: Article
+_type: WebPage
 
 ---
 There's this image 
