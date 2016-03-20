@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T11:04:27.595Z'
-dateModified: '2015-12-29T11:04:24.748Z'
+description: "Frost \nsprinkled across the fields,\nwhose flowers are no more. "
+datePublished: '2016-03-20T16:48:36.825Z'
+dateModified: '2016-03-20T16:48:34.163Z'
 title: as the cold winds blow
 author: []
 sourcePath: _posts/2015-12-19-as-the-cold-winds-blow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: as-the-cold-winds-blow/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6c93c36c0e614a69a65697fc3338ce558ffc56b.jpg)
