@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T13:34:06.681Z'
-dateModified: '2016-02-10T13:04:43.584Z'
+description: "If friends were flowers, I'd pick you - Albert Camus"
+datePublished: '2016-03-20T16:41:44.715Z'
+dateModified: '2016-03-20T16:41:41.620Z'
 title: Unlikely friends
 author: []
+sourcePath: _posts/2016-02-10-unlikely-friends.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-unlikely-friends.md
-published: true
 url: unlikely-friends/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/133668d4-2e08-4aa8-a49b-4a5b1ca1a006.jpg)
