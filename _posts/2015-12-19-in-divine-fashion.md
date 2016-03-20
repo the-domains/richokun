@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-05T16:04:27.702Z'
-dateModified: '2016-01-05T16:04:25.352Z'
+description: "It is a miserable state of mind to have few things to desire and many things to fear. - Francis\_Bacon "
+datePublished: '2016-03-20T16:45:54.107Z'
+dateModified: '2016-03-20T16:45:51.252Z'
 title: In divine fashion
 author: []
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: in-divine-fashion/index.html
-_type: Article
+_type: WebPage
 
 ---
 It is a miserable state of mind to have few things to desire and many things to fear. - Francis Bacon ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/536bb101e7a64899dd4b314833a2afc2b0bf7b94.jpg)
