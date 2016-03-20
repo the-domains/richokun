@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-15T11:40:47.205Z'
-dateModified: '2016-01-15T11:40:47.006Z'
+description: 'On this beautiful day, '
+datePublished: '2016-03-20T16:47:48.259Z'
+dateModified: '2016-03-20T16:47:39.862Z'
 title: On this beautiful day - My mystical journey
 author: []
 sourcePath: _posts/2015-12-19-on-this-beautiful-day-my-mystical-journey.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: on-this-beautiful-day-my-mystical-journey/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2c9ed493f4576fdf0669e6be72927875ec4da6b.jpg)
