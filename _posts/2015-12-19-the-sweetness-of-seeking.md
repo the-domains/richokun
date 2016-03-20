@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-24T19:57:03.129Z'
-dateModified: '2015-12-24T19:57:00.321Z'
+description: How do I give up
+datePublished: '2016-03-20T16:49:20.295Z'
+dateModified: '2016-03-20T16:49:15.995Z'
 title: The Sweetness of seeking
 author: []
 sourcePath: _posts/2015-12-19-the-sweetness-of-seeking.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-sweetness-of-seeking/index.html
-_type: Article
+_type: WebPage
 
 ---
 How do I give up
