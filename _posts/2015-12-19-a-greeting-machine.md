@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T11:27:31.879Z'
-dateModified: '2015-12-29T11:27:22.607Z'
+description: "when I came upon \na very big frog. "
+datePublished: '2016-03-20T16:47:04.417Z'
+dateModified: '2016-03-20T16:47:01.615Z'
 title: a greeting machine
 author: []
 sourcePath: _posts/2015-12-19-a-greeting-machine.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-greeting-machine/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d1bacf4-1208-4469-b353-5fd9c49b223b.jpg)
