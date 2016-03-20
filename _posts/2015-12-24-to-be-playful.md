@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-25T10:40:15.736Z'
-dateModified: '2015-12-25T10:40:11.808Z'
+description: 'To be '
+datePublished: '2016-03-20T16:44:41.281Z'
+dateModified: '2016-03-20T16:44:36.463Z'
 title: To be playful
 author: []
 sourcePath: _posts/2015-12-24-to-be-playful.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: to-be-playful/index.html
-_type: Article
+_type: WebPage
 
 ---
 To be 
