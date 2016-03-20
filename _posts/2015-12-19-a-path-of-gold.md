@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-29T11:09:33.841Z'
-dateModified: '2015-12-29T11:09:31.156Z'
+description: 'A blanket of autumn leaves, '
+datePublished: '2016-03-20T16:46:39.709Z'
+dateModified: '2016-03-20T16:46:36.993Z'
 title: a path of gold
 author: []
 sourcePath: _posts/2015-12-19-a-path-of-gold.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-path-of-gold/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/09e33eb3d3fffb2791bf951fa539b0a1060360e7.jpg)
