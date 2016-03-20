@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-18T17:34:54.609Z'
-dateModified: '2016-01-18T17:34:50.478Z'
+description: 'What we call ’I’ is just a swinging door, which moves when we inhale and when we exhale. - Shunryu Suzuki '
+datePublished: '2016-03-20T16:42:13.763Z'
+dateModified: '2016-03-20T16:42:05.305Z'
 title: I see my breath
 author: []
 sourcePath: _posts/2016-01-04-i-see-my-breath.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: i-see-my-breath/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d34ec9c-5411-46f5-ab4e-3e23ddebe5b4.jpg)
