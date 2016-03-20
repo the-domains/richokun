@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-28T12:15:09.968Z'
-dateModified: '2016-01-28T12:15:05.501Z'
+description: 'Were it not, '
+datePublished: '2016-03-20T16:46:17.887Z'
+dateModified: '2016-03-20T16:46:13.919Z'
 title: a tiny little dot
 author: []
 sourcePath: _posts/2015-12-19-a-tiny-little-dot.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-tiny-little-dot/index.html
-_type: Article
+_type: WebPage
 
 ---
 Were it not, 
