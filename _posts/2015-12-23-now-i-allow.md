@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-24T19:52:23.261Z'
-dateModified: '2015-12-24T19:46:04.912Z'
+description: "I was too blind\nto notice, "
+datePublished: '2016-03-20T16:45:02.456Z'
+dateModified: '2016-03-20T16:44:57.632Z'
 title: Now I allow
 author: []
 sourcePath: _posts/2015-12-23-now-i-allow.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: now-i-allow/index.html
-_type: Article
+_type: WebPage
 
 ---
 I was too blind
