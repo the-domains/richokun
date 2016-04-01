@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: from my spirit I belong
-datePublished: '2016-04-01T10:10:51.022Z'
-dateModified: '2016-04-01T10:10:26.251Z'
-title: ''
+description: ''
+datePublished: '2016-04-01T10:12:41.967Z'
+dateModified: '2016-04-01T10:12:34.083Z'
+title: from my spirit I belong
 author: []
 sourcePath: _posts/2016-04-01-from-my-spirit-i-belong.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: from-my-spirit-i-belong/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57079eca-7513-4e91-8f01-8de907ec3d64.jpg)
