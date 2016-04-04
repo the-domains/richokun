@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 21:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 21:52:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a magical quest]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/richokun/a-magical-quest/index.html</link>
             <guid isPermaLink="false">76ca5c30-de82-458a-818c-5f2faa78452e</guid>
             <pubDate>Sun, 20 Mar 2016 17:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Today I am a Cardinal]]></title>
-            <description><![CDATA[<article><h1>Today I am a Cardinal</h1><p>Just before dawn,</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1e0eaa27194aef140c7602e1e77277e2fe5c5f4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/richokun/today-i-am-a-cardinal/index.html</link>
-            <guid isPermaLink="false">28a32c4f-6122-4815-851c-972bfb2adc0e</guid>
-            <pubDate>Mon, 04 Apr 2016 21:51:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
