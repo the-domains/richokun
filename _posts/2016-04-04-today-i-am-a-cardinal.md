@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Just before dawn,'
-datePublished: '2016-04-04T21:51:18.155Z'
-dateModified: '2016-04-04T21:49:51.508Z'
+datePublished: '2016-04-04T21:52:34.925Z'
+dateModified: '2016-04-04T21:52:29.836Z'
 title: Today I am a Cardinal
 author: []
 sourcePath: _posts/2016-04-04-today-i-am-a-cardinal.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: today-i-am-a-cardinal/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4d148f2-43f7-45d1-b350-75a15dc5fbbc.jpg)
