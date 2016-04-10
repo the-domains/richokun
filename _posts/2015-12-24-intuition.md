@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I’m the what, '
-datePublished: '2016-03-20T16:44:24.854Z'
-dateModified: '2016-03-20T16:44:21.955Z'
+datePublished: '2016-04-10T21:05:17.590Z'
+dateModified: '2016-04-10T21:05:16.478Z'
 title: Intuition
 author: []
 sourcePath: _posts/2015-12-24-intuition.md
