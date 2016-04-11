@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Silly me\nI thought I had to \nforce my way in.\nThat I had to \nbreak the door down,\nnot knowing \nthat its always open,\nand its not a verb, \nits a noun.\_"
-datePublished: '2016-03-20T16:42:10.001Z'
-dateModified: '2016-03-20T16:42:07.228Z'
+datePublished: '2016-04-11T10:20:45.862Z'
+dateModified: '2016-04-11T10:20:31.578Z'
 title: the great pretender
 author: []
 sourcePath: _posts/2015-12-31-the-great-pretender.md
@@ -26,29 +26,37 @@ _type: WebPage
 
 Silly me
 I thought I had to 
-force my way in.
+force my way in. 
+
 That I had to 
 break the door down,
 not knowing 
-that its always open,
+that its always open, 
+
 and its not a verb, 
 its a noun. 
 
 I would see that door,
 in shadowy contour.
-Just slightly ajar.
+Just slightly ajar. 
+
 And many times before,
 I'd get close, but no cigar. 
 
 Unaware, that;
 waiting in the dream, 
-for the dreamer to accept,
+for the dreamer to accept, 
+
 is his role 
-in this grand scheme.
+in this grand scheme. 
+
 Waiting so patiently, 
 where certainty is kept. 
 
 From here to the other side, 
-we can try to hide,
+we can try to hide, 
+
 but through love you'll surrender
-and no matter how well alibied,  it will unmask the great pretender.
+and no matter how well alibied,  
+
+it will unmask the great pretender.
