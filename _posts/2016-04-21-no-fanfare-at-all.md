@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'No blare of trumpets,'
-datePublished: '2016-04-21T09:22:31.363Z'
-dateModified: '2016-04-21T09:22:16.077Z'
+datePublished: '2016-04-21T09:45:57.221Z'
+dateModified: '2016-04-21T09:45:51.391Z'
 title: no fanfare at all
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-21-no-fanfare-at-all.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-no-fanfare-at-all.md
-published: true
 url: no-fanfare-at-all/index.html
 _type: WebPage
 
