@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The world is a mirror, forever reflecting what you are doing within yourself. - Neville Goddard.'
-datePublished: '2016-06-01T09:43:08.510Z'
-dateModified: '2016-06-01T09:42:55.917Z'
+datePublished: '2016-06-01T09:43:18.133Z'
+dateModified: '2016-06-01T09:43:10.687Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-the-world-is-a-mirror-forever-reflecting-what-you-are-doing.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-the-world-is-a-mirror-forever-reflecting-what-you-are-doing.md
 url: the-world-is-a-mirror-forever-reflecting-what-you-are-doing/index.html
 _type: Article
 
