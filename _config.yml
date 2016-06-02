@@ -1,7 +1,7 @@
 name: richokun
 favicon: null
-layout_spectrum: 0.66405
-typography_spectrum: 0.11803
+layout_spectrum: 0.32853850768879056
+typography_spectrum: 0.7326214106287807
 title: Rich Okun
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d7d3d2'
-    - '#fcfcfc'
-    - '#7a7a84'
-    - '#040406'
-    - '#47464c'
-  brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+  brandStrength: 0.2332924536895007
+  lightness: 0.44957621046341956
+  saturation: 0.8059139805845916
+  rhythmicContrast: 0.6485881335102022
 purpose: []
