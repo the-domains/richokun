@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'The world is a mirror, forever reflecting what you are doing within yourself. - Neville Goddard.'
-datePublished: '2016-06-01T09:48:31.896Z'
-dateModified: '2016-06-01T09:48:18.945Z'
+datePublished: '2016-06-03T18:02:58.837Z'
+dateModified: '2016-06-03T18:02:48.526Z'
 title: The Inner You
 author:
   - name: ''
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: the-world-is-a-mirror-forever-reflecting-what-you-are-doing/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a9a181-7c8a-4a70-b3e1-d3ee627cc2ad.jpg)
