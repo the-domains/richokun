@@ -6,14 +6,14 @@ isBasedOnUrl: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f631100
 inLanguage: null
 keywords: []
 description: The Dance of the Cottonwood
-datePublished: '2016-06-03T18:02:20.585Z'
-dateModified: '2016-06-03T18:02:01.277Z'
+datePublished: '2016-06-03T18:03:02.107Z'
+dateModified: '2016-06-03T18:02:23.124Z'
 author: []
 title: The dance of the cottonwoods
+sourcePath: _posts/2016-06-03-the-dance-of-the-cottonwoods.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-the-dance-of-the-cottonwoods.md
 _context: 'http://schema.org'
 _type: Article
 
