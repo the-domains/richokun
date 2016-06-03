@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 09:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 18:02:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a magical quest]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/richokun/a-magical-quest/index.html</link>
             <guid isPermaLink="false">76ca5c30-de82-458a-818c-5f2faa78452e</guid>
             <pubDate>Sun, 20 Mar 2016 17:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dance of the cottonwoods]]></title>
+            <description><![CDATA[<article><h1>The dance of the cottonwoods</h1><p>The Dance of the Cottonwood</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f631100-787b-4442-af8e-f9017ee9f42e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f631100-787b-4442-af8e-f9017ee9f42e.jpg</link>
+            <guid isPermaLink="false">c91bb05a-3d3d-4660-9835-30ae9044700b</guid>
+            <pubDate>Fri, 03 Jun 2016 18:02:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
