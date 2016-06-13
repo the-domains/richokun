@@ -1,14 +1,18 @@
 ---
-datePublished: '2016-06-09T12:49:52.140Z'
-author: []
-dateModified: '2016-06-09T12:49:52.040Z'
-title: hold no one beholden
-description: In a world of
-sourcePath: _posts/2016-06-09-hold-no-one-beholden.md
-starred: false
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
+inLanguage: null
+keywords: []
+description: In a world of
+datePublished: '2016-06-13T11:25:23.831Z'
+dateModified: '2016-06-13T11:25:12.654Z'
+author: []
+title: hold no one beholden
+sourcePath: _posts/2016-06-09-hold-no-one-beholden.md
+authors: []
+publisher: null
+starred: false
 url: hold-no-one-beholden/index.html
 _context: 'http://schema.org'
 _type: Article
