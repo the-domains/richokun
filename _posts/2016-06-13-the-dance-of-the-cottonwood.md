@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-06-13T14:24:00.438Z'
-sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
 inFeed: false
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-13T14:23:31.803Z'
-title: ''
-publisher: null
-description: The Dance of the Cottonwood
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: The Dance of the Cottonwood
+datePublished: '2016-06-13T14:25:57.003Z'
+dateModified: '2016-06-13T14:24:20.217Z'
+title: ''
+author: []
+sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
+authors: []
+publisher: null
 starred: false
 url: the-dance-of-the-cottonwood/index.html
 _type: WebPage
