@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Dance of the Cottonwood
-datePublished: '2016-06-13T13:31:42.161Z'
-dateModified: '2016-06-13T13:31:40.349Z'
+datePublished: '2016-06-13T13:32:31.534Z'
+dateModified: '2016-06-13T13:32:10.285Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
@@ -77,3 +77,4 @@ _I don't see this very often,_
 _drawn ever closer,_
 
 _to the source._
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7498f49e-06f7-40b9-8988-51f2e75389b1.jpg)
