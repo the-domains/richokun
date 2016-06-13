@@ -1,17 +1,17 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: The Dance of the Cottonwood
-datePublished: '2016-06-13T14:21:29.440Z'
-dateModified: '2016-06-13T14:21:26.135Z'
-title: ''
-author: []
+datePublished: '2016-06-13T14:24:00.438Z'
 sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
+inFeed: false
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-06-13T14:23:31.803Z'
+title: ''
 publisher: null
+description: The Dance of the Cottonwood
+inLanguage: null
+inNav: true
 starred: false
 url: the-dance-of-the-cottonwood/index.html
 _type: WebPage
@@ -78,4 +78,3 @@ _I don't see this very often,_
 _drawn ever closer,_
 
 _to the source._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7498f49e-06f7-40b9-8988-51f2e75389b1.jpg)
