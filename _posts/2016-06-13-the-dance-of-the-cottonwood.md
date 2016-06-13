@@ -1,18 +1,22 @@
 ---
-description: The Dance of the Cottonwood
-dateModified: '2016-06-13T13:29:42.157Z'
-datePublished: '2016-06-13T13:29:42.928Z'
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+inLanguage: null
+keywords: []
+description: The Dance of the Cottonwood
+datePublished: '2016-06-13T13:31:42.161Z'
+dateModified: '2016-06-13T13:31:40.349Z'
+title: ''
+author: []
+sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
+authors: []
+publisher: null
+starred: false
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd87466e-9e42-41ed-b0f0-04ca2016dee7.jpg)
+![The Dance of the Cottonwood](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd87466e-9e42-41ed-b0f0-04ca2016dee7.jpg)
 
 _The Dance of the Cottonwood_
 
