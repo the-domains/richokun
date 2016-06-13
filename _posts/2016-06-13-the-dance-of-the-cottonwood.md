@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Dance of the Cottonwood
-datePublished: '2016-06-13T14:21:17.527Z'
-dateModified: '2016-06-13T14:21:12.014Z'
+datePublished: '2016-06-13T14:21:29.440Z'
+dateModified: '2016-06-13T14:21:26.135Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
