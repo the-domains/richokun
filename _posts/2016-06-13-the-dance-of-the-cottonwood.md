@@ -1,19 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: The Dance of the Cottonwood
-datePublished: '2016-06-13T13:32:31.534Z'
-dateModified: '2016-06-13T13:32:10.285Z'
+datePublished: '2016-06-13T14:10:00.586Z'
+dateModified: '2016-06-13T14:09:52.188Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-the-dance-of-the-cottonwood.md
 authors: []
 publisher: null
 starred: false
-_type: Blurb
+url: the-dance-of-the-cottonwood/index.html
+_type: WebPage
 
 ---
 ![The Dance of the Cottonwood](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd87466e-9e42-41ed-b0f0-04ca2016dee7.jpg)
