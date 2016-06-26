@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A blanket of autumn leaves, '
-datePublished: '2016-03-20T16:46:39.709Z'
-dateModified: '2016-03-20T16:46:36.993Z'
+datePublished: '2016-06-26T13:38:35.659Z'
+dateModified: '2016-04-10T21:06:41.436Z'
 title: a path of gold
 author: []
 sourcePath: _posts/2015-12-19-a-path-of-gold.md
-published: true
 authors: []
 publisher:
   name: null
