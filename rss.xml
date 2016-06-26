@@ -4,7 +4,7 @@
         <description><![CDATA[Rich Okun]]></description>
         <link>https://thegrid.ai/richokun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 13:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 14:18:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/richokun/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a magical quest]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/richokun/i-saw-you/index.html</link>
             <guid isPermaLink="false">d386d258-c45d-43fe-8ebe-a5d6084bbeaf</guid>
             <pubDate>Sun, 26 Jun 2016 13:41:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c271dbb-dc36-4124-b4f3-91962c74ff69.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/richokun/7dd9341f-cd2c-45d0-836f-8e7d0cb4aec3/index.html</link>
-            <guid isPermaLink="false">7dd9341f-cd2c-45d0-836f-8e7d0cb4aec3</guid>
-            <pubDate>Sun, 26 Jun 2016 13:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
