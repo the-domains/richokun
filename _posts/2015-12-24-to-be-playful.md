@@ -3,21 +3,18 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'To be '
-datePublished: '2016-03-20T16:44:41.281Z'
-dateModified: '2016-03-20T16:44:36.463Z'
-title: To be playful
-author: []
+datePublished: '2016-06-26T13:40:50.353Z'
+dateModified: '2016-06-26T13:40:37.296Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-24-to-be-playful.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: to-be-playful/index.html
 _type: WebPage
 
@@ -32,7 +29,7 @@ recalling your descent,
 
 where into and from, 
 
-a sweet loving intent,    
+a sweet loving intent, 
 
 we go to and come..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0acb46e5-ac2f-47b8-82d2-3ba9ed409345.jpg)
