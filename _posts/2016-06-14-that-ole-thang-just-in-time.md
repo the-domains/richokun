@@ -5,16 +5,17 @@ inNav: true
 inLanguage: null
 keywords: []
 description: That ole' thang (just in time)
-datePublished: '2016-06-14T09:45:27.398Z'
-dateModified: '2016-06-14T09:45:12.081Z'
+datePublished: '2016-08-20T12:41:40.735Z'
+dateModified: '2016-08-20T12:41:40.351Z'
 title: ''
 author:
   - name: ''
     url: ''
 authors: []
-publisher: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-06-14-that-ole-thang-just-in-time.md
+via: {}
+starred: false
 url: that-ole-thang-just-in-time/index.html
 _type: WebPage
 
