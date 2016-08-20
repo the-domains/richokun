@@ -28,6 +28,9 @@ navigation:
   - name: I saw you
     id: d386d258-c45d-43fe-8ebe-a5d6084bbeaf
     type: content
+  - name: That ole' thang (just in time)
+    id: b1b7848b-dbda-43f9-9e14-8c70fd1e1a35
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
