@@ -5,13 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: In a world of
-datePublished: '2016-06-13T11:26:08.311Z'
-dateModified: '2016-06-13T11:26:00.622Z'
+datePublished: '2016-08-20T12:41:57.627Z'
+dateModified: '2016-08-20T12:41:57.209Z'
 author: []
 title: hold no one beholden
 sourcePath: _posts/2016-06-09-hold-no-one-beholden.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: hold-no-one-beholden/index.html
 _context: 'http://schema.org'
