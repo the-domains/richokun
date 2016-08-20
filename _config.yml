@@ -1,20 +1,4 @@
-name: richokun
-favicon: null
-layout_spectrum: 0.32853850768879056
 typography_spectrum: 0.7326214106287807
-title: Rich Okun
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#703030'
@@ -26,4 +10,24 @@ color:
   lightness: 0.44957621046341956
   saturation: 0.8059139805845916
   rhythmicContrast: 0.6485881335102022
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.32853850768879056
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: richokun
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: I saw you
+    id: d386d258-c45d-43fe-8ebe-a5d6084bbeaf
+    type: content
+favicon: null
+title: Rich Okun
 purpose: []
