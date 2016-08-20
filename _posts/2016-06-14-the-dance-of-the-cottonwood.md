@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'The Dance of the Cottonwood '
-datePublished: '2016-08-20T15:01:44.166Z'
-dateModified: '2016-08-20T15:01:37.713Z'
+datePublished: '2016-08-20T15:20:26.950Z'
+dateModified: '2016-08-20T15:20:16.522Z'
 title: ''
 author:
   - name: ''
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: false
 url: the-dance-of-the-cottonwood/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/908b2e33-0052-4302-b67a-e670e5a2010a.jpg)
