@@ -1,5 +1,5 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
@@ -8,8 +8,8 @@ description: >-
   “Dive into your heart center. Sit in the silence. Desire self-realization with
   all your heart, with all your mind, and all your soul. Everything will take
   care of itself.” - Robert Adams
-datePublished: '2016-08-20T15:01:14.886Z'
-dateModified: '2016-08-20T15:00:55.712Z'
+datePublished: '2016-08-20T15:20:07.734Z'
+dateModified: '2016-08-20T15:20:00.851Z'
 title: ''
 author:
   - name: ''
@@ -18,13 +18,13 @@ sourcePath: _posts/2016-01-05-a-magical-quest.md
 via: {}
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: a-magical-quest/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4b6e2336b847aeb0bdf254dee30301917b87da.jpg)
