@@ -31,6 +31,9 @@ navigation:
   - name: That ole' thang (just in time)
     id: b1b7848b-dbda-43f9-9e14-8c70fd1e1a35
     type: content
+  - name: The Dance of the Cottonwood
+    id: 475d5e0f-0947-41c9-be36-7bd0f967b931
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
