@@ -5,16 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: That ole' thang (just in time)
-datePublished: '2016-08-20T12:41:40.735Z'
-dateModified: '2016-08-20T12:41:40.351Z'
+datePublished: '2016-08-20T15:02:44.539Z'
+dateModified: '2016-08-20T15:02:40.220Z'
 title: ''
 author:
   - name: ''
     url: ''
-authors: []
-publisher: {}
 sourcePath: _posts/2016-06-14-that-ole-thang-just-in-time.md
 via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: that-ole-thang-just-in-time/index.html
 _type: WebPage
@@ -28,25 +32,13 @@ Came along
 
 an old 
 
-**T**
-
-h
-
-**ANG**
-
-, 
+**Th****ANG, **
 
 but I caught it
 
 before it became
 
-a 
-
-**T**
-
-h
-
-**IN**_g,_
+a **Th****IN**_g,_
 
 and magically,
 
