@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "If friends were flowers, I'd pick you - Albert Camus"
-datePublished: '2016-03-20T16:41:44.715Z'
-dateModified: '2016-03-20T16:41:41.620Z'
-title: Unlikely friends
-author: []
+description: 'If friends were flowers, I''d pick you - Albert Camus'
+datePublished: '2016-08-24T10:29:39.696Z'
+dateModified: '2016-08-24T10:29:39.292Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-10-unlikely-friends.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: unlikely-friends/index.html
 _type: WebPage
 
