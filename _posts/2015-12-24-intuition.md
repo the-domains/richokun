@@ -5,15 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'I’m the what, '
-datePublished: '2016-06-01T09:53:04.995Z'
-dateModified: '2016-06-01T09:52:58.307Z'
+datePublished: '2016-08-24T10:31:48.263Z'
+dateModified: '2016-08-24T10:31:47.920Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2015-12-24-intuition.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: intuition/index.html
 _type: WebPage
