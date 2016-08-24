@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-24T10:21:22.347Z'
+datePublished: '2016-08-24T10:22:19.086Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T10:21:10.372Z'
+dateModified: '2016-08-24T10:22:18.745Z'
 title: ''
 publisher: {}
 description: 'On display,'
-starred: false
 sourcePath: _posts/2016-08-24-on-display.md
+starred: false
 url: on-display/index.html
 _context: 'http://schema.org'
 _type: Article
