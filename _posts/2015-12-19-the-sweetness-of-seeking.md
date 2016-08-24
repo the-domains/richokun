@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: How do I give up
-datePublished: '2016-03-20T16:49:20.295Z'
-dateModified: '2016-03-20T16:49:15.995Z'
-title: The Sweetness of seeking
-author: []
+datePublished: '2016-08-24T10:32:56.694Z'
+dateModified: '2016-08-24T10:32:56.141Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-19-the-sweetness-of-seeking.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: the-sweetness-of-seeking/index.html
 _type: WebPage
 
