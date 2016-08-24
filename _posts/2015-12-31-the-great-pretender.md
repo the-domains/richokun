@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "Silly me\nI thought I had to \nforce my way in.\nThat I had to \nbreak the door down,\nnot knowing \nthat its always open,\nand its not a verb, \nits a noun.\_"
-datePublished: '2016-04-11T10:20:45.862Z'
-dateModified: '2016-04-11T10:20:31.578Z'
-title: the great pretender
-author: []
+description: "Silly me\nI thought I had to \nforce my way in.\_"
+datePublished: '2016-08-24T10:30:22.070Z'
+dateModified: '2016-08-24T10:30:21.702Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-31-the-great-pretender.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: the-great-pretender/index.html
 _type: WebPage
 
