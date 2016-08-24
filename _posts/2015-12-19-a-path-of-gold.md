@@ -3,20 +3,19 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'A blanket of autumn leaves, '
-datePublished: '2016-06-26T13:38:35.659Z'
-dateModified: '2016-04-10T21:06:41.436Z'
-title: a path of gold
-author: []
+datePublished: '2016-08-24T10:32:33.769Z'
+dateModified: '2016-08-24T10:32:33.294Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-19-a-path-of-gold.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: a-path-of-gold/index.html
 _type: WebPage
 
