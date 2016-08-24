@@ -118,6 +118,9 @@ navigation:
   - name: Passion changes things
     id: 275f7709-5a5d-4972-b15a-e5a2ada647be
     type: content
+  - name: Warts and Bruises
+    id: 8ce58b24-dc9e-424a-bae9-e89ef29be01c
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
