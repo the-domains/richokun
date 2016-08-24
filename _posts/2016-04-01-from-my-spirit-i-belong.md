@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-04T22:03:07.840Z'
-dateModified: '2016-04-04T22:02:51.906Z'
+datePublished: '2016-08-24T10:28:47.054Z'
+dateModified: '2016-08-24T10:28:46.672Z'
 title: from my spirit I belong
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-01-from-my-spirit-i-belong.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: from-my-spirit-i-belong/index.html
 _type: WebPage
 
