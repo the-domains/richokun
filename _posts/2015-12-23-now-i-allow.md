@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "I was too blind\nto notice, "
-datePublished: '2016-03-20T16:45:02.456Z'
-dateModified: '2016-03-20T16:44:57.632Z'
-title: Now I allow
+description: |-
+  I was too blind
+  to notice, 
+datePublished: '2016-08-24T10:32:00.854Z'
+dateModified: '2016-08-24T10:32:00.269Z'
+title: ''
 author: []
 sourcePath: _posts/2015-12-23-now-i-allow.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: now-i-allow/index.html
 _type: WebPage
 
