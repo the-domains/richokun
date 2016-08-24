@@ -58,6 +58,9 @@ navigation:
   - name: from my spirit I belong
     id: 00479f29-bb76-42a6-ab84-bdd3bf2e8a09
     type: content
+  - name: Am I
+    id: 26371ae2-bb6b-41f4-bc94-436ff05c229d
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
