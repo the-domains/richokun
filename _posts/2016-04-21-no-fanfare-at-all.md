@@ -3,23 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'No blare of trumpets,'
-datePublished: '2016-04-21T09:45:57.221Z'
-dateModified: '2016-04-21T09:45:51.391Z'
+datePublished: '2016-08-24T10:28:22.527Z'
+dateModified: '2016-08-24T10:28:22.083Z'
 title: no fanfare at all
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-21-no-fanfare-at-all.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: no-fanfare-at-all/index.html
 _type: WebPage
 
