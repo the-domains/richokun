@@ -8,8 +8,8 @@ description: >-
   “Dive into your heart center. Sit in the silence. Desire self-realization with
   all your heart, with all your mind, and all your soul. Everything will take
   care of itself.” - Robert Adams
-datePublished: '2016-08-20T15:20:07.734Z'
-dateModified: '2016-08-20T15:20:00.851Z'
+datePublished: '2016-08-24T10:29:54.483Z'
+dateModified: '2016-08-24T10:29:54.165Z'
 title: ''
 author:
   - name: ''
@@ -17,11 +17,7 @@ author:
 sourcePath: _posts/2016-01-05-a-magical-quest.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: a-magical-quest/index.html
 _type: WebPage
