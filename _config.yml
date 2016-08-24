@@ -85,6 +85,9 @@ navigation:
   - name: good news
     id: c700bc96-de2d-4e19-bc37-a34c73b46754
     type: content
+  - name: advantages
+    id: 619f8547-4531-4167-bd06-988dd2dc9bac
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
