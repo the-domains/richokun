@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "It is the greatest of all advantages to enjoy no advantage at all. - Henry David Thoreau \n\nSome, \nplace great importance\Lin having the upper hand.\Lalways needing to advance, \nand having to be in command.\n\LBut \nthere is something to be said, \nand the greater to be gained, \nto not be so far ahead, \nrather be equal and contained. \n\nA great humility\nis invited,\nwhen equanimity\nis highlighted.\n\nIn receptive presence\nof guided wisdom,\na perceptive resonance\nto express your 'ism'."
-datePublished: '2016-03-20T16:42:51.540Z'
-dateModified: '2016-03-20T16:42:47.273Z'
-title: advantages
-author: []
+datePublished: '2016-08-24T10:30:39.748Z'
+dateModified: '2016-08-24T10:30:39.187Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-29-advantages.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: advantages/index.html
 _type: WebPage
 
