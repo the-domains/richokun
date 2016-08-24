@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T16:43:32.114Z'
-dateModified: '2016-03-20T16:43:27.845Z'
+datePublished: '2016-08-24T10:31:40.801Z'
+dateModified: '2016-08-24T10:31:40.483Z'
 title: My Dreams have come
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-26-my-dreams-have-come.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: my-dreams-have-come/index.html
 _type: WebPage
 
