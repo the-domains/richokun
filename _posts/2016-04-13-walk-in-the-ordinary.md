@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-13T09:36:21.635Z'
-dateModified: '2016-04-13T09:36:06.197Z'
+description: You walk
+datePublished: '2016-08-24T10:28:29.032Z'
+dateModified: '2016-08-24T10:28:28.633Z'
 title: Walk in the ordinary
-author: []
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
 sourcePath: _posts/2016-04-13-walk-in-the-ordinary.md
-published: true
+via: {}
+starred: false
 url: walk-in-the-ordinary/index.html
 _type: WebPage
 
