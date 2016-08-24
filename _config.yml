@@ -43,6 +43,9 @@ navigation:
   - name: Opossum
     id: 6ea3c8e9-504c-4b25-86cb-c9427d7d6f75
     type: content
+  - name: you sent the winds
+    id: 0e2d5ed3-a170-4046-b71a-fce30d9f7ea6
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
