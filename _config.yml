@@ -103,6 +103,9 @@ navigation:
   - name: a tiny little dot
     id: cc7087fc-dd4e-4ade-a16f-46b692999dfd
     type: content
+  - name: a path of gold
+    id: 4c13da3f-ddd2-4988-af49-910a2b3b1852
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
