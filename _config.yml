@@ -70,6 +70,9 @@ navigation:
   - name: Unlikely friends
     id: 1c41455e-3dcc-493b-8a92-9d7e8b315ed2
     type: content
+  - name: playful like a child
+    id: 7dd9341f-cd2c-45d0-836f-8e7d0cb4aec3
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
