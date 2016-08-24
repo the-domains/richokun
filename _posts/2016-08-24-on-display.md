@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T10:22:19.086Z'
+datePublished: '2016-08-24T15:34:25.688Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T10:22:18.745Z'
+dateModified: '2016-08-24T15:34:25.202Z'
 title: ''
 publisher: {}
 description: 'On display,'
