@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "It is a miserable state of mind to have few things to desire and many things to fear. - Francis\_Bacon "
-datePublished: '2016-03-20T16:45:54.107Z'
-dateModified: '2016-03-20T16:45:51.252Z'
-title: In divine fashion
-author: []
+datePublished: '2016-08-24T10:32:42.372Z'
+dateModified: '2016-08-24T10:32:41.548Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-19-in-divine-fashion.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: in-divine-fashion/index.html
 _type: WebPage
 
