@@ -82,6 +82,9 @@ navigation:
   - name: the great pretender
     id: ddf697c3-89ec-4ef1-a554-7b91103454bb
     type: content
+  - name: good news
+    id: c700bc96-de2d-4e19-bc37-a34c73b46754
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
