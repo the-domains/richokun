@@ -73,6 +73,9 @@ navigation:
   - name: playful like a child
     id: 7dd9341f-cd2c-45d0-836f-8e7d0cb4aec3
     type: content
+  - name: a magical quest
+    id: 76ca5c30-de82-458a-818c-5f2faa78452e
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
