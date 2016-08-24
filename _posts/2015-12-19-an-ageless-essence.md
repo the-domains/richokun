@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: |-
   I stare, into the knowing 
@@ -34,17 +33,17 @@ description: |-
   will sense in the world,
   the whole,
   of creation. 
-datePublished: '2016-06-27T10:14:46.121Z'
-dateModified: '2016-04-10T21:06:09.075Z'
-title: an ageless essence
-author: []
+datePublished: '2016-08-24T10:32:48.860Z'
+dateModified: '2016-08-24T10:32:48.494Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-19-an-ageless-essence.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: an-ageless-essence/index.html
 _type: WebPage
 
