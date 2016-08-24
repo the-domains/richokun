@@ -5,21 +5,21 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-28T09:40:07.562Z'
-dateModified: '2016-04-28T09:39:55.556Z'
+datePublished: '2016-08-24T10:28:16.499Z'
+dateModified: '2016-08-24T10:28:16.055Z'
 title: you sent the winds
 author:
   - name: ''
     url: ''
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-28-you-sent-the-winds.md
-published: true
+via: {}
+starred: false
 url: you-sent-the-winds/index.html
 _type: WebPage
 
