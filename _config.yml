@@ -49,6 +49,9 @@ navigation:
   - name: no fanfare at all
     id: ce5796de-79eb-424a-866d-d5f92c0eee45
     type: content
+  - name: Walk in the ordinary
+    id: 0f1a5519-3ca9-4c40-948d-d6d3ab8857fc
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
