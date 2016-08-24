@@ -67,6 +67,9 @@ navigation:
   - name: DoBe
     id: 00ae9b5b-3f5e-4fbf-a61c-4d510c102ddc
     type: content
+  - name: Unlikely friends
+    id: 1c41455e-3dcc-493b-8a92-9d7e8b315ed2
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
