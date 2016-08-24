@@ -76,6 +76,9 @@ navigation:
   - name: a magical quest
     id: 76ca5c30-de82-458a-818c-5f2faa78452e
     type: content
+  - name: I see my breath
+    id: 7ad9d255-0bff-425f-833f-0a949378401f
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
