@@ -55,6 +55,9 @@ navigation:
   - name: Today I am a Cardinal
     id: 28a32c4f-6122-4815-851c-972bfb2adc0e
     type: content
+  - name: from my spirit I belong
+    id: 00479f29-bb76-42a6-ab84-bdd3bf2e8a09
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
