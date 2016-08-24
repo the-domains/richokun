@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T16:45:17.840Z'
-dateModified: '2016-03-20T16:45:13.592Z'
-title: If I see in you
-author: []
+description: If I see in you
+datePublished: '2016-08-24T10:32:14.965Z'
+dateModified: '2016-08-24T10:32:14.464Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-23-if-i-see-in-you.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: if-i-see-in-you/index.html
 _type: WebPage
 
