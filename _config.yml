@@ -97,6 +97,9 @@ navigation:
   - name: Now I allow
     id: c0bcca57-f0cd-489d-af43-fbd14946d0cc
     type: content
+  - name: If I see in you
+    id: e18e769e-25cb-4d02-9f7f-6a061b9a8e6d
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
