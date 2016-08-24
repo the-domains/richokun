@@ -52,6 +52,9 @@ navigation:
   - name: Walk in the ordinary
     id: 0f1a5519-3ca9-4c40-948d-d6d3ab8857fc
     type: content
+  - name: Today I am a Cardinal
+    id: 28a32c4f-6122-4815-851c-972bfb2adc0e
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
