@@ -64,6 +64,9 @@ navigation:
   - name: Living
     id: d441caaf-79b4-4e7b-8089-a1c6c7ee61f6
     type: content
+  - name: DoBe
+    id: 00ae9b5b-3f5e-4fbf-a61c-4d510c102ddc
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
