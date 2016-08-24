@@ -94,6 +94,9 @@ navigation:
   - name: Intuition
     id: 7e92c6c3-429d-47b7-b669-b95b9a5dfaa3
     type: content
+  - name: Now I allow
+    id: c0bcca57-f0cd-489d-af43-fbd14946d0cc
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
