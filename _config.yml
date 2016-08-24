@@ -46,6 +46,9 @@ navigation:
   - name: you sent the winds
     id: 0e2d5ed3-a170-4046-b71a-fce30d9f7ea6
     type: content
+  - name: no fanfare at all
+    id: ce5796de-79eb-424a-866d-d5f92c0eee45
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
