@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-26T10:48:36.393Z'
+datePublished: '2016-08-26T10:48:51.331Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T10:48:29.099Z'
+dateModified: '2016-08-26T10:48:50.957Z'
 title: ''
 publisher: {}
 description: >-
   I love to think of nature as an unlimited broadcasting station, through which
   God speaks to us every hour, if we will only tune in. - George Washington
   Carver
-starred: false
 sourcePath: >-
   _posts/2016-08-26-i-love-to-think-of-nature-as-an-unlimited-broadcasting-stati.md
+starred: false
 url: i-love-to-think-of-nature-as-an-unlimited-broadcasting-stati/index.html
 _context: 'http://schema.org'
 _type: Article
