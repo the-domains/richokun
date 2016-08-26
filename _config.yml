@@ -121,6 +121,9 @@ navigation:
   - name: Warts and Bruises
     id: 8ce58b24-dc9e-424a-bae9-e89ef29be01c
     type: content
+  - name: Bird on a wire
+    id: 75e0d894-3001-45a9-8d35-4b994bfe0f95
+    type: content
 favicon: null
 title: Rich Okun
 purpose: []
