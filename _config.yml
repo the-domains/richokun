@@ -19,7 +19,7 @@ analytics:
   google: UA-35516913-1
   facebook: null
   twitter: null
-name: in words and pictures
+name: "Vignettes\_"
 cta:
   domain: null
   bucket: null
@@ -125,5 +125,5 @@ navigation:
     id: 75e0d894-3001-45a9-8d35-4b994bfe0f95
     type: content
 favicon: null
-title: "Rich Okun - Vignettes\_"
+title: "Rich Okun\_"
 purpose: []
